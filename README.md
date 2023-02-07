@@ -1,2 +1,2 @@
 # pagina-portfolio
-Minha Pagina Pessoal. Contem informações sobre meu portfolio e projetos desenvolvidos.
+Minha Página Pessoal. Onde exibo todos os projetos já construídos e meu contato.
